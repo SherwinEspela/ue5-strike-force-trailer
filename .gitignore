@@ -72,3 +72,16 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+StrikeForceTrailer/Binaries/
+StrikeForceTrailer/Content/__ExternalActors__/TopDown/
+StrikeForceTrailer/Content/Characters/
+StrikeForceTrailer/Content/LevelPrototyping/
+StrikeForceTrailer/Content/StarterContent/
+StrikeForceTrailer/Intermediate/
+StrikeForceTrailer/Content/TopDown/
+StrikeForceTrailer/Content/__ExternalObjects__/
+StrikeForceTrailer/Content/Cursor/
+StrikeForceTrailer/Saved/
+StrikeForceTrailer/UpgradeLog.htm
+StrikeForceTrailer/.vsconfig
+StrikeForceTrailer/Config/DefaultEditor.ini
